@@ -19,3 +19,6 @@ gcc projeto.s -o projeto.elf -no-pie
 ```
 
 # assembly-rle-decoder
+
+Rep. para estudar e fazer mudanças futuras
+
